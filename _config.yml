@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Malle Schilling / Welcome!"
+title                    : "Malle Schilling"
 title_separator          : "-"
 name                     : &name "Malle Schilling"
 description              : &description "personal description"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+  bio              : "Ph.D. Candidate in Engineering Education"
+  location         : "Blacksburg, VA"
+  employer         : "Virginia Tech"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=3fvqH5sAAAAJ&hl=en&oi=ao&inst=13410158990364976897"
-  email            :
+  email            : "schillingmr@vt.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-2943-1969"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@MalleSchilling"
   vine             :
   weibo            :
   xing             :
