@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Engineering Education Research Methods, Teaching Assistant"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Graduate Course"
+permalink: /teaching/Fall2023TA
+venue: "Virginia Tech, Department of Engineering Education"
+date: 2024
+location: "Blacksburg, Virginia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Research Methods is a core course for the Engineering Education PhD at Virginia Tech. As part of this course, I provided regular feedback on assignments and led courses related to ethics in research and researcher positionality, as well as qualitative research methods. 
 
 Heading 1
 ======
