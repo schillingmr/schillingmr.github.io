@@ -12,7 +12,9 @@ Research-Practice Partnerships to Address Wicked Problems in Educational Systems
 
 Activity Example
 ======
+* Reflection Activity: /files/RPP_activityexample.pdf
 
+  
 Discussion - Emergent Strategy
 ======
 
