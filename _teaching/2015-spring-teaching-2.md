@@ -1,19 +1,19 @@
 ---
-title: "Teaching experience 2"
+title: "Research-Practice Partnerships to Address Wicked Problems in Educational Systems, Faculty Apprentice"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Special Topics Graduate Course"
+permalink: /teaching/Spring2023FA
+venue: "Virginia Tech, Department of Engineering Education"
+date: 2023-01-01
+location: "Blacksburg, Virginia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Research-Practice Partnerships to Address Wicked Problems in Educational Systems was a special topics class offered in the Spring 2023 semester. As a faculty apprentice for this class, I assisted the instructor in identifying readings, contributing to class discussion, and leading class activities and discussions. 
 
-Heading 1
+Activity Example
 ======
 
-Heading 2
+Discussion - Emergent Strategy
 ======
 
 Heading 3
