@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate Course"
 permalink: /teaching/Fall2023TA
 venue: "Virginia Tech, Department of Engineering Education"
-date: 2024
+date: 2024-23-08
 location: "Blacksburg, Virginia"
 ---
 
