@@ -10,11 +10,9 @@ location: "Blacksburg, Virginia"
 
 Research-Practice Partnerships to Address Wicked Problems in Educational Systems was a special topics class offered in the Spring 2023 semester. As a faculty apprentice for this class, I assisted the instructor in identifying readings, contributing to class discussion, and leading class activities and discussions. 
 
-Activity Example
+[Activity Example](/files/RPP_activityexample.pdf)
 ======
-* Reflection Activity: /files/RPP_activityexample.pdf
 
-  
 Discussion - Emergent Strategy
 ======
 
