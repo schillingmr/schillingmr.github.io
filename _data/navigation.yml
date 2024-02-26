@@ -10,9 +10,6 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Projects"
-    url: /projects/
-    
   - title: "CV"
     url: /files/MRSchilling_CV.pdf
     
