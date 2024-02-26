@@ -1,5 +1,5 @@
 ---
-title: "Exploring the Intersection of Rural Education and Engineering Education"
+title: "Place-Based Curriculum Development and Conceptions of Engineering"
 collection: portfolio
 permalink: /portfolio/PBE
 venue: "Virginia Tech, Department of Engineering Education"
