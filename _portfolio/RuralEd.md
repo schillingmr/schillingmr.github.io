@@ -10,7 +10,7 @@ permalink: /portfolio/RuralEd
 
 Research Statement and Relevant Work
 ======
-My interests in rural education and engineering education are largely informed by own experiences as a rural student seeking an engineering degree. Too often, it seemed like my experiences growing up in a rural place were wildly different from my peers. My experiences are the basis of my dissertation work which has resulted in three manuscripts:
+My interests in rural education and engineering education are largely informed by own experiences as a rural student seeking an engineering degree. Too often, it seemed like my experiences growing up in a rural place were wildly different from my peers. My experiences are the basis of my dissertation work, supported by being a recipient of the [National Science Foundation Graduate Research Fellowship](https://news.vt.edu/articles/2021/08/eng-nsf-grfp-fellows.html)
 
 * Developing a conceptual model for what it means to engage with rural students, teachers, and communities as engineering educators
   * Publication: [A Conceptual Model for Engineering Educators in Rural Places: Critical Reflection and Engagement](https://seejournal.org/articles/10.21061/see.97)
