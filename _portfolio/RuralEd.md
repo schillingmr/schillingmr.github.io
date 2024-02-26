@@ -8,9 +8,8 @@ permalink: /portfolio/RuralEd
 * Supporting rural STEM ecosystems
 * Engaging with rural students, teachers, and communities
 
----
-
-## Research Statement and Relevant Work
+Research Statement and Relevant Work
+======
 My interests in rural education and engineering education are largely informed by own experiences as a rural student seeking an engineering degree. Too often, it seemed like my experiences growing up in a rural place were wildly different from my peers. My experiences are the basis of my dissertation work which has resulted in three manuscripts:
 
 * Developing a conceptual model for what it means to engage with rural students, teachers, and communities as engineering educators
