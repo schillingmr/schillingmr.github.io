@@ -1,7 +1,7 @@
 ---
-title: "VT PEERS, GRA"
+title: "Exploring the Intersection of Rural Education and Engineering Education"
 collection: portfolio
-permalink: /portfolio/1. VTPEERS
+permalink: /portfolio/RuralEd
 venue: "Virginia Tech, Department of Engineering Education"
 location: "Blacksburg, Virginia"
 ---
