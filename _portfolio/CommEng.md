@@ -15,5 +15,5 @@ My interests in community engagement stemmed from a need to ensure that research
 * Understanding the benefits and challenges of partnerships from the perspectives of stakeholders involved in a multi-institutional collaboration
   * Publication: [Benefits, Roles and Tensions: Understanding the Process of Collaboration in Rural Engineering Education Contexts](https://peer.asee.org/41015)
 * Analyzing reflections from stakeholders involved in [NSF CIVIC project](https://heat2hope.org/) to understand their perspectives on change and capacity building to address the effects of heat resilience in a neighborhood in Roanoke, Virginia
-  * Publication: Stay tuned! 
+  * Blog Post: [Understanding the Wickedness of Problems and Capacities to Address Them](https://heat2hope.org/news/understanding-the-wickedness)
 
